@@ -4,12 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I'm a [front end engineer](//wikipedia.org/wiki/Front_end_development) with
+a passion for _fast_, accessible, user-friendly, and highly-semantic websites.
 
-### More Information
+## Contact me
 
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+[andy@andydvorak.net](mailto:andy@andydvorak.net)
